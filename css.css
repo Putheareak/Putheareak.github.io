@@ -1,0 +1,50 @@
+.head h1 
+{
+	margin: 0px;
+	background-color: gray;
+	color: red;
+	text-align: center;
+	padding: 100px;
+}
+.head h1:hover {
+	background-color: blue;
+	border: solid 2px black;
+}
+.d1
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: red;
+	width: 350px;
+	height: 1000px;
+
+}
+.d2
+{
+	background-color: green;
+	position: absolute;
+	top: 0px;
+	left: 350px;
+	width: 700px;
+	height: 200px;
+
+}
+.d3
+{
+	background-color: blue;
+	position: absolute;
+	top: 0px;
+	left: 1050px;
+	width: 600px;
+	height: 1000px;
+}
+.d4
+{
+	background-color: orange;
+	position: absolute;
+	top:200px;
+	left: 350px;
+	width: 700px;
+	height: 800px;
+}
